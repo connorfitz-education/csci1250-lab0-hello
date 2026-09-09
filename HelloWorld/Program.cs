@@ -1,6 +1,6 @@
 ﻿/*
 * Name: Connor M Fitzgerald
-* Course: CSCI 1250, Section 001
+* Course: CSCI 1250, Section 002
 * Assignment: Lab 0, Hello World
 * Date: September 9, 2026
 * Description: Prints a greeting and a short introduction to the console.
